@@ -200,7 +200,7 @@ scikit-learn>=1.1.0
 
 ## 📈 Tableau Dashboard
 
-🔗 **Live Dashboard**: [View on Tableau Public](https://public.tableau.com) *(update with your URL)*
+🔗 **Live Dashboard**: [View on Tableau Public](https://public.tableau.com) *(https://public.tableau.com/app/profile/harsha.mandala8583/viz/fraud_dashboard_17849835305220/Dashboard1)*
 
 The dashboard includes 5 interactive visualizations:
 1. **Box & Whisker Plot** — Transaction amount by gender and category
@@ -235,9 +235,3 @@ The dashboard includes 5 interactive visualizations:
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-<div align="center">
-  <b>⭐ If you found this project useful, please consider starring the repository! ⭐</b>
-  <br><br>
-  Made with ❤️ by <a href="https://github.com/Harsha-mandala">Harsha Mandala</a>
-</div>
